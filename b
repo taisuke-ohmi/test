@@ -1,2 +1,1 @@
-bbbbbbb
-bbbbbbb
+Hello hoge!
